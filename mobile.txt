@@ -1,0 +1,3 @@
+Name : Realme C3
+Version: 13.0
+RAM : 32 GB
