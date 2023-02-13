@@ -1,3 +1,5 @@
 Name : Realme C3
 Version: 13.0
 RAM : 32 GB
+Color : Blue
+Version: 14.5
